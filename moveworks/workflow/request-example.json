@@ -1,0 +1,5 @@
+{
+  "document_type": "word",
+  "file_name": "moveworks-letter",
+  "document_json": "{\"type\":\"document\",\"content\":{\"children\":[{\"type\":\"paragraph\",\"children\":[{\"type\":\"text\",\"text\":\"Dear Employee,\"}]},{\"type\":\"paragraph\",\"children\":[{\"type\":\"text\",\"text\":\"This document was created from the OfficeMaker Moveworks starter example.\"}]},{\"type\":\"paragraph\",\"children\":[{\"type\":\"text\",\"text\":\"Kind regards,\"}]},{\"type\":\"paragraph\",\"children\":[{\"type\":\"text\",\"text\":\"Moveworks Agent\"}]}]}}"
+}
